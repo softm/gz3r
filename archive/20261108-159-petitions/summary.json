@@ -1,0 +1,26 @@
+{
+  "collected": "2026-11-08",
+  "search": 113,
+  "public": 92,
+  "private": 21,
+  "related_public": 85,
+  "unrelated_public": 7,
+  "new_search": 23,
+  "missing_baseline": [
+    "2025-5118",
+    "2025-5345",
+    "2025-5429",
+    "2025-5435"
+  ],
+  "new_related": 20,
+  "answers_added": 22,
+  "monthly": {
+    "2026-11": 7,
+    "2026-10": 35,
+    "2026-08": 13,
+    "2025-11": 30
+  },
+  "similar_pairs": 32,
+  "median_answer_days": 4,
+  "baseline_sha256": "e2504516ebe35cec7734e5802418026a1430261e01c3b62d9e6c45b2300b4585"
+}
